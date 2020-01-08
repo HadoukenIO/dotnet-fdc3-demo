@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenFin.FDC3.Demo", "OpenFin.FDC3.Demo\OpenFin.FDC3.Demo.csproj", "{4A8BFDFB-1762-476D-A7ED-CBEF8CBFA97B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Staging|Any CPU = Staging|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A8BFDFB-1762-476D-A7ED-CBEF8CBFA97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A8BFDFB-1762-476D-A7ED-CBEF8CBFA97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A8BFDFB-1762-476D-A7ED-CBEF8CBFA97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A8BFDFB-1762-476D-A7ED-CBEF8CBFA97B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A8BFDFB-1762-476D-A7ED-CBEF8CBFA97B}.Staging|Any CPU.ActiveCfg = Staging|Any CPU
+		{4A8BFDFB-1762-476D-A7ED-CBEF8CBFA97B}.Staging|Any CPU.Build.0 = Staging|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E86B17DE-B0B7-4914-AEA3-6B85EA452415}
+	EndGlobalSection
+EndGlobal
