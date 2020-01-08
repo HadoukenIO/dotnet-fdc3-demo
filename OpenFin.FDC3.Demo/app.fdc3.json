@@ -8,10 +8,10 @@
         "autoShow": true,
         "fdc3Api": true
     },
-    "runtime": {
-        "arguments": "",
-        "version": "14.78.47.15"
-    },
+  "runtime": {
+    "arguments": "",
+    "version": "14.78.45.31"
+  },
     "shortcut": {
         "company": "OpenFin",
         "description": "Openfin POC",
